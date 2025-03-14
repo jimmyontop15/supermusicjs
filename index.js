@@ -1,2 +1,2 @@
-const SuperMusic = require("./src/SuperMusic");
+const SuperMusic = require("./SuperMusic");
 module.exports = { SuperMusic };
