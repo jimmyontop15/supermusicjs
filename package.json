@@ -1,0 +1,10 @@
+{
+  "name": "supermusic",
+  "version": "1.0.0",
+  "description": "A Lavalink-based Discord music package",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "undici": "^5.21.0"
+  }
+}
